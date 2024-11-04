@@ -62,6 +62,7 @@ CMakeFiles/inOneWeekend.dir/src/main.cc.obj: C:/Users/nzesc/OneDrive/Documents/C
   C:/msys64/ucrt64/include/c++/13.2.0/cctype \
   C:/msys64/ucrt64/include/c++/13.2.0/cerrno \
   C:/msys64/ucrt64/include/c++/13.2.0/clocale \
+  C:/msys64/ucrt64/include/c++/13.2.0/cmath \
   C:/msys64/ucrt64/include/c++/13.2.0/cstdio \
   C:/msys64/ucrt64/include/c++/13.2.0/cstdlib \
   C:/msys64/ucrt64/include/c++/13.2.0/cwchar \
@@ -109,6 +110,7 @@ CMakeFiles/inOneWeekend.dir/src/main.cc.obj: C:/Users/nzesc/OneDrive/Documents/C
   C:/msys64/ucrt64/include/limits.h \
   C:/msys64/ucrt64/include/locale.h \
   C:/msys64/ucrt64/include/malloc.h \
+  C:/msys64/ucrt64/include/math.h \
   C:/msys64/ucrt64/include/process.h \
   C:/msys64/ucrt64/include/pthread.h \
   C:/msys64/ucrt64/include/pthread_compat.h \
@@ -134,7 +136,9 @@ CMakeFiles/inOneWeekend.dir/src/main.cc.obj: C:/Users/nzesc/OneDrive/Documents/C
   C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
   C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
   C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
-  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h
+  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
+  C:/Users/nzesc/OneDrive/Documents/C++/ray_tracer/src/color.h \
+  C:/Users/nzesc/OneDrive/Documents/C++/ray_tracer/src/vec3.h
 
 
 C:/Users/nzesc/OneDrive/Documents/C++/ray_tracer/src/main.cc:
@@ -191,11 +195,11 @@ C:/msys64/ucrt64/include/c++/13.2.0/bits/char_traits.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/charconv.h:
 
-C:/msys64/ucrt64/include/c++/13.2.0/bits/postypes.h:
+C:/msys64/ucrt64/include/c++/13.2.0/cstdio:
 
 C:/msys64/ucrt64/include/c++/13.2.0/cwchar:
 
-C:/msys64/ucrt64/include/c++/13.2.0/cstdio:
+C:/msys64/ucrt64/include/c++/13.2.0/bits/postypes.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/concept_check.h:
 
@@ -265,9 +269,11 @@ C:/msys64/ucrt64/include/c++/13.2.0/bits/std_abs.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_function.h:
 
-C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator.h:
-
 C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_algobase.h:
+
+C:/msys64/ucrt64/include/c++/13.2.0/cmath:
+
+C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator.h:
 
 C:/msys64/ucrt64/include/c++/13.2.0/bits/streambuf.tcc:
 
@@ -361,6 +367,8 @@ C:/msys64/ucrt64/include/locale.h:
 
 C:/msys64/ucrt64/include/malloc.h:
 
+C:/msys64/ucrt64/include/math.h:
+
 C:/msys64/ucrt64/include/process.h:
 
 C:/msys64/ucrt64/include/pthread.h:
@@ -404,3 +412,7 @@ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h:
 C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h:
 
 C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h:
+
+C:/Users/nzesc/OneDrive/Documents/C++/ray_tracer/src/color.h:
+
+C:/Users/nzesc/OneDrive/Documents/C++/ray_tracer/src/vec3.h:

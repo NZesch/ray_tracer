@@ -4,6 +4,7 @@ set (CMAKE_CXX_STANDARD 11)
 set (SOURCE_ONE_WEEKEND 
     src/main.cc
     src/vec3.h
-    src/color.h)
+    src/color.h
+    src/ray.h)
 include_directories(src)
 add_executable(inOneWeekend ${SOURCE_ONE_WEEKEND})
