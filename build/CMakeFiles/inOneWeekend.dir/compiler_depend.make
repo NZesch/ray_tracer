@@ -138,6 +138,7 @@ CMakeFiles/inOneWeekend.dir/src/main.cc.obj: C:/Users/nzesc/OneDrive/Documents/C
   C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
   C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
   C:/Users/nzesc/OneDrive/Documents/C++/ray_tracer/src/color.h \
+  C:/Users/nzesc/OneDrive/Documents/C++/ray_tracer/src/ray.h \
   C:/Users/nzesc/OneDrive/Documents/C++/ray_tracer/src/vec3.h
 
 
@@ -414,5 +415,7 @@ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h:
 C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h:
 
 C:/Users/nzesc/OneDrive/Documents/C++/ray_tracer/src/color.h:
+
+C:/Users/nzesc/OneDrive/Documents/C++/ray_tracer/src/ray.h:
 
 C:/Users/nzesc/OneDrive/Documents/C++/ray_tracer/src/vec3.h:

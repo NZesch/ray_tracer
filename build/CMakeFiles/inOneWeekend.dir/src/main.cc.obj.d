@@ -131,4 +131,5 @@ CMakeFiles/inOneWeekend.dir/src/main.cc.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/basic_ios.tcc \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/ostream.tcc \
  C:/msys64/ucrt64/include/c++/13.2.0/istream \
- C:/msys64/ucrt64/include/c++/13.2.0/bits/istream.tcc
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/istream.tcc \
+ C:\Users\nzesc\OneDrive\Documents\C++\ray_tracer\src\ray.h
