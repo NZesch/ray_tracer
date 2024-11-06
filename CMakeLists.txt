@@ -5,6 +5,8 @@ set (SOURCE_ONE_WEEKEND
     src/main.cc
     src/vec3.h
     src/color.h
-    src/ray.h)
+    src/ray.h
+    src/hittable.h
+    src/sphere.h)
 include_directories(src)
 add_executable(inOneWeekend ${SOURCE_ONE_WEEKEND})
