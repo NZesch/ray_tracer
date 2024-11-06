@@ -1,7 +1,6 @@
 CMakeFiles/inOneWeekend.dir/src/main.cc.obj: \
  C:\Users\nzesc\OneDrive\Documents\C++\ray_tracer\src\main.cc \
- C:\Users\nzesc\OneDrive\Documents\C++\ray_tracer\src\color.h \
- C:\Users\nzesc\OneDrive\Documents\C++\ray_tracer\src\vec3.h \
+ C:\Users\nzesc\OneDrive\Documents\C++\ray_tracer\src\rtweekend.h \
  C:/msys64/ucrt64/include/c++/13.2.0/cmath \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/requires_hosted.h \
  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -132,4 +131,34 @@ CMakeFiles/inOneWeekend.dir/src/main.cc.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/ostream.tcc \
  C:/msys64/ucrt64/include/c++/13.2.0/istream \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/istream.tcc \
- C:\Users\nzesc\OneDrive\Documents\C++\ray_tracer\src\ray.h
+ C:/msys64/ucrt64/include/c++/13.2.0/limits \
+ C:/msys64/ucrt64/include/c++/13.2.0/memory \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_tempbuf.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_uninitialized.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_raw_storage_iter.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/align.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bit \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
+ C:/msys64/ucrt64/include/stdint.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/uses_allocator.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/unique_ptr.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/tuple \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/shared_ptr.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/shared_ptr_base.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/allocated_ptr.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/ext/aligned_buffer.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/ext/concurrence.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/shared_ptr_atomic.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/atomic_base.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/atomic_lockfree_defines.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/backward/auto_ptr.h \
+ C:\Users\nzesc\OneDrive\Documents\C++\ray_tracer\src\color.h \
+ C:\Users\nzesc\OneDrive\Documents\C++\ray_tracer\src\vec3.h \
+ C:\Users\nzesc\OneDrive\Documents\C++\ray_tracer\src\ray.h \
+ C:\Users\nzesc\OneDrive\Documents\C++\ray_tracer\src\hittable.h \
+ C:\Users\nzesc\OneDrive\Documents\C++\ray_tracer\src\hittable_list.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/vector \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_vector.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/stl_bvector.h \
+ C:/msys64/ucrt64/include/c++/13.2.0/bits/vector.tcc \
+ C:\Users\nzesc\OneDrive\Documents\C++\ray_tracer\src\sphere.h
